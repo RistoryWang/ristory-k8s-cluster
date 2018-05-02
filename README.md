@@ -6,5 +6,7 @@
 ##### 4.文件夹内为过程中依赖的一些证书、配置等，按需使用
 ##### 5.2*master(apiserver+controller manager+shecheduler)+3*etcd+3*node(kubulet+proxy)+kubedns+fannel++2*(ha+keepalived)+dashboard+heapster+traefik+grafana+influxdb
 
+ ![image](https://github.com/RistoryWang/ristory-k8s-cluster/raw/master/screenshots/dashboard.jpg)
+
 
 [1]:	https://blog.qikqiak.com/post/manual-install-high-available-kubernetes-cluster/
